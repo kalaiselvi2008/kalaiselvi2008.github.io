@@ -23,7 +23,7 @@
 
  input {
      padding: 25px; 
-     color: rgb(47, 51, 50); 
+     color: rgb(20, 20, 20); 
      font-size: 10s; 
      cursor: pointer;
      width: 70px;
@@ -50,7 +50,7 @@
  }
 
  input[type="text"] {
-     background-color: rgb(47, 51, 50);
+     background-color: rgb(160, 171, 190);
  }
 
  input[type="button"]:hover{
@@ -59,13 +59,13 @@
  }  
 
  .clear {
-     background-color: rgb(255, 42, 42);
+     background-color: rgb(155, 42, 142);
      color: #fff;
  }
 
  button {
      border: none;
-     background-color: rgb(39, 36, 36);
+     background-color: rgb(39, 36, 36);   
      padding: 10px;
      color: #fff;
      margin: 2px;
