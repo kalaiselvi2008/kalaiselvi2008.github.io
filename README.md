@@ -1,7 +1,7 @@
 # add new and modified file to local repository
 git add .
 
-# comment the changes
+# commit the changes
 git commit -m "write what change you did here"
 
 # add these files to remote repository to github.com
